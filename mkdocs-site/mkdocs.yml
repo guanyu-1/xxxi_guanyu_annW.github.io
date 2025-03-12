@@ -1,5 +1,6 @@
 site_name: Home_Sweet_Home
 site_url: site
+
 theme:
   name: material
   features:
